@@ -1,4 +1,4 @@
-# data-journalist-investigation
+# survival-guide-of-data-journalist
 Final project
 ## Title
 
