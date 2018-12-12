@@ -9,11 +9,12 @@
 - Haotian XU, [@coolxu8888](https://github.com/coolxu8888)
 - Xingjie ZENG, [@zacharyzeng](https://github.com/zacharyzeng)
 ## Background and motivation
-
-## (optional) Executive summary
 Nowadays, we see more and more words with #data journalism# appearing on the internet, social media platforms, television and newspapers. In the era of the revolution and innovation of internet technology, data has different interpretations for different people. Now, the news industry no longer relies on the news of the past to inform the public after the production of printing machines, but has been recorded and disseminated when news are happening. However it is also because of this, news is screened in the wave of the internet and is often overwhelmed by opinions. Therefore, in the media industry, data journalism has become the hottest and most important category at present. Data journalists have also become a popular choice, changing more and more journalists or those who want to become journalists in this direction.
   
-As students of communication who also take part in data courses, we hope to investigate and find what are key trends and skills to be a data journalists.
+As students of communication who also take part in data courses, we hope to investigate and find what are key trends and skills to be a data journalists. In this way, we can contribute some information or reference for those potential students who are willing to be a data journalist in the future.
+  
+## (optional) Executive summary
+
 
 ## Quick pointers to key files
 
