@@ -1,7 +1,7 @@
 # survival-guide-of-data-journalist
   
 ## Title
-
+survival-guide-of-data-journalist
 
 ## Team members
 - Chenxi LI, [@ConnorLi96](https://github.com/ConnorLi96)
