@@ -19,22 +19,19 @@ We hope to provide data journalists with a "survival guide" through crawling dat
 At the same time, we used those data combining with the existing data news education materials vertically and horizontally to look for the employment status and prospects of Data Journalist. Using all kinds of libraries learned in class to analyze the crawled data and visualize our data to get the final comprehensive charts, and make a summary of our data.  
 
 ## Quick pointers to key files
-1.[DJ-contribution-tendency](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/1%20DJ-contribution-tendency/DJ-contribution-tendency-line%26area.ipynb) contain the contribution tendency analysis of DJ.
+1.The [DJ-contribution-tendency](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/1%20DJ-contribution-tendency/DJ-contribution-tendency-line%26area.ipynb) contain the contribution tendency analysis of DJ.
 
 2.The [Analysis-in-US](https://nbviewer.jupyter.org/github/ConnorLi96/survival-guide-of-data-journalist/blob/master/4%20DJ%20text%20process/Analysis%20In%20US.ipynb) includes contribution analysis and Twitter & job description text process 
 
 3.The [DJ-contribution-and-location](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/3%20DJ-distribution/DJ-distribution.ipynb) includes all maps.
 
+4.[csv](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/4%20DJ%20text%20process/Data_Journalism.csv) : the original csv include all DJ information
 
-data collection code: all the code we used to scrape & clean data
+5.[images](https://github.com/ConnorLi96/survival-guide-of-data-journalist/tree/master/All-images): all visualization results of our research
 
-csv: all data sheets
+6.Prezi: [The Survival Guide Of Data Journalist](https://prezi.com/view/wUc3wyvCLEMqya7l2rJX/)
 
-images: all visualization results of our research
-
-Prezi: [The Survival Guide Of Data Journalist](https://prezi.com/view/wUc3wyvCLEMqya7l2rJX/)
-
-Bonus:[The Survival Guide Of Data Journalist](https://prezi.com/view/wUc3wyvCLEMqya7l2rJX/)
+7.Bonus:[The Survival Guide Of Data Journalist](https://prezi.com/view/wUc3wyvCLEMqya7l2rJX/)
 
 Bonus url: 
 Link to the Bonus's GitHub repo: 
