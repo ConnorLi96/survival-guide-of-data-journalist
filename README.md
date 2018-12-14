@@ -19,13 +19,12 @@ We hope to provide data journalists with a "survival guide" through crawling dat
 At the same time, we used those data combining with the existing data news education materials vertically and horizontally to look for the employment status and prospects of Data Journalist. Using all kinds of libraries learned in class to analyze the crawled data and visualize our data to get the final comprehensive charts, and make a summary of our data.  
 
 ## Quick pointers to key files
-1.[DJ-contribution-tendency](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/1%20DJ-contribution-tendency/DJ-contribution-tendency-line%26area.ipynb)  
-2.[Global-DJ-Education-Map](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/2%20Global-DJ-Education-Map/Global-DJ-Education-Map.ipynb)  
-3.[DJ-distribution](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/3%20DJ-distribution/DJ-distribution.ipynb)  
-4.[DJ text process](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/4%20DJ%20text%20process/Word%20CLoud%20%26%20Count.ipynb)  
-5.[2018-America-Journalist-job-market-map/](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/others/2018-America-Journalist-job-market-map/U.S-Journalism-Employment-Market.ipynb)  
-6.[2018-US-DJ-Contributions](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/others/2018-US-DJ-Contributions/Contribution%20Analysis%20In%20US.ipynb)  
-7.[DJ-jobs-description-keywords-frequency](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/others/DJ-jobs-description-keywords-frequency/jobs-description-analysis.ipynb)  
+1.[DJ-contribution-tendency](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/1%20DJ-contribution-tendency/DJ-contribution-tendency-line%26area.ipynb) contain the contribution tendency analysis of DJ.
+
+2.The [Analysis-in-US](https://nbviewer.jupyter.org/github/ConnorLi96/survival-guide-of-data-journalist/blob/master/4%20DJ%20text%20process/Analysis%20In%20US.ipynb) includes contribution analysis and Twitter & job description text process 
+
+3.The [DJ-contribution-and-location](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/3%20DJ-distribution/DJ-distribution.ipynb) includes all maps.
+
 
 data collection code: all the code we used to scrape & clean data
 
