@@ -25,9 +25,9 @@ At the same time, we used those data combining with the existing data news educa
 
 3.The [DJ-contribution-and-location](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/3%20DJ-distribution/DJ-distribution.ipynb) includes all maps.
 
-4.[csv](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/4%20DJ%20text%20process/Data_Journalism.csv) : the original csv include all DJ information
+4.Csv: the original [csv](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/4%20DJ%20text%20process/Data_Journalism.csv)include all DJ information
 
-5.[images](https://github.com/ConnorLi96/survival-guide-of-data-journalist/tree/master/All-images): all visualization results of our research
+5.Images: all [visualization](https://github.com/ConnorLi96/survival-guide-of-data-journalist/tree/master/All-images) results of our research
 
 6.Prezi: [The Survival Guide Of Data Journalist](https://prezi.com/view/wUc3wyvCLEMqya7l2rJX/)
 
