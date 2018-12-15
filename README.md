@@ -25,16 +25,13 @@ At the same time, we used those data combining with the existing data news educa
 
 3.The [DJ-contribution-and-location](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/3%20DJ-distribution/DJ-distribution.ipynb) includes all maps.
 
-4.Csv: the original [csv](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/4%20DJ%20text%20process/Data_Journalism.csv)include all DJ information
+4.Csv: the original [csv](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/4%20DJ%20text%20process/Data_Journalism.csv) includes all DJ information
 
 5.Images: all [visualization](https://github.com/ConnorLi96/survival-guide-of-data-journalist/tree/master/All-images) results of our research
 
 6.Prezi: [DJ gogogo](https://prezi.com/view/wUc3wyvCLEMqya7l2rJX/)
 
 7.Bonus:[The Survival Guide Of Data Journalist](https://flystephen.github.io/DJ-insight/)
-
-Bonus url: 
-Link to the Bonus's GitHub repo: 
 
 ## References
 - [Online News Association](https://careers.journalists.org/jobs/?keywords=data+OR+journalist&page=1)  
