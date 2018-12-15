@@ -29,9 +29,9 @@ At the same time, we used those data combining with the existing data news educa
 
 5.Images: all [visualization](https://github.com/ConnorLi96/survival-guide-of-data-journalist/tree/master/All-images) results of our research
 
-6.Prezi: [The Survival Guide Of Data Journalist](https://prezi.com/view/wUc3wyvCLEMqya7l2rJX/)
+6.Prezi: [DJ gogogo](https://prezi.com/view/wUc3wyvCLEMqya7l2rJX/)
 
-7.Bonus:[The Survival Guide Of Data Journalist](https://prezi.com/view/wUc3wyvCLEMqya7l2rJX/)
+7.Bonus:[The Survival Guide Of Data Journalist](https://flystephen.github.io/DJ-insight/)
 
 Bonus url: 
 Link to the Bonus's GitHub repo: 
