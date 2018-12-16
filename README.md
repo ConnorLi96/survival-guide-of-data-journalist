@@ -27,13 +27,13 @@ At the same time, we used those data combining with the existing data news educa
 3.The [directiory-distribution.ipynb](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/2-DJ-distribution/2-1-directiory-distribution/directiory-distribution.ipynb) includes all maps. ([nbviewer](http://nbviewer.jupyter.org/github/ConnorLi96/survival-guide-of-data-journalist/blob/master/2-DJ-distribution/2-1-directiory-distribution/directiory-distribution.ipynb))
 
 ### Others
-4.Csv: the original [csv](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/4%20DJ%20text%20process/Data_Journalism.csv) includes all DJ information
+1.Csv: the original [csv](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/4%20DJ%20text%20process/Data_Journalism.csv) includes all DJ information
 
-5.Images: all [visualization](https://github.com/ConnorLi96/survival-guide-of-data-journalist/tree/master/All-images) results of our research
+2.Images: all [visualization](https://github.com/ConnorLi96/survival-guide-of-data-journalist/tree/master/All-images) results of our research
 
-6.Prezi: [DJ gogogo](https://prezi.com/view/wUc3wyvCLEMqya7l2rJX/)
+3.Prezi: [DJ gogogo](https://prezi.com/view/wUc3wyvCLEMqya7l2rJX/)
 
-7.Bonus:[The Survival Guide Of Data Journalist](https://flystephen.github.io/DJ-insight/) ([GitHub Repo](https://github.com/FLYSTEPHEN/DJ-insight))
+4.Bonus:[The Survival Guide Of Data Journalist](https://flystephen.github.io/DJ-insight/) ([GitHub Repo](https://github.com/FLYSTEPHEN/DJ-insight))
 
 ## References
 - [Online News Association](https://careers.journalists.org/jobs/?keywords=data+OR+journalist&page=1)  
