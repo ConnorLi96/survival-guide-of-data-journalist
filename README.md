@@ -23,7 +23,7 @@ At the same time, we used those data combining with the existing data news educa
 
 2.The [Analysis-in-US](https://nbviewer.jupyter.org/github/ConnorLi96/survival-guide-of-data-journalist/blob/master/4%20DJ%20text%20process/Analysis%20In%20US.ipynb) includes contribution analysis and Twitter & job description text process 
 
-3.The [directiory-distribution.ipynb](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/2-DJ-distribution/2-1-directiory-distribution/directiory-distribution.ipynb) includes all maps.
+3.The [directiory-distribution.ipynb](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/2-DJ-distribution/2-1-directiory-distribution/directiory-distribution.ipynb) includes all maps. ([nbviewer](http://nbviewer.jupyter.org/github/ConnorLi96/survival-guide-of-data-journalist/blob/master/2-DJ-distribution/2-1-directiory-distribution/directiory-distribution.ipynb))
 
 4.Csv: the original [csv](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/4%20DJ%20text%20process/Data_Journalism.csv) includes all DJ information
 
