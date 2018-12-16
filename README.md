@@ -19,11 +19,11 @@ We hope to provide data journalists with a "survival guide" through crawling dat
 At the same time, we used those data combining with the existing data news education materials vertically and horizontally to look for the employment status and prospects of Data Journalist. Using all kinds of libraries learned in class to analyze the crawled data and visualize our data to get the final comprehensive charts, and make a summary of our data.  
 
 ## Quick pointers to key files
-1.The [DJ-contribution-tendency](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/1%20DJ-contribution-tendency/DJ-contribution-tendency-line%26area.ipynb) contain the contribution tendency analysis of DJ.
+1.The [DJ-contribution-tendency](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/1-DJ-contribution/1-2-tendency-from-2008/DJ-contribution-tendency-area.ipynb) contain the contribution tendency analysis of DJ.
 
 2.The [Analysis-in-US](https://nbviewer.jupyter.org/github/ConnorLi96/survival-guide-of-data-journalist/blob/master/4%20DJ%20text%20process/Analysis%20In%20US.ipynb) includes contribution analysis and Twitter & job description text process 
 
-3.The [DJ-contribution-and-location](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/3%20DJ-distribution/DJ-distribution.ipynb) includes all maps.
+3.The [DJ-contribution-and-location](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/2-DJ-distribution/2-1-directiory-distribution/directiory-distribution.ipynb) includes all maps.
 
 4.Csv: the original [csv](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/4%20DJ%20text%20process/Data_Journalism.csv) includes all DJ information
 
@@ -31,7 +31,7 @@ At the same time, we used those data combining with the existing data news educa
 
 6.Prezi: [DJ gogogo](https://prezi.com/view/wUc3wyvCLEMqya7l2rJX/)
 
-7.Bonus:[The Survival Guide Of Data Journalist](https://flystephen.github.io/DJ-insight/)
+7.Bonus:[The Survival Guide Of Data Journalist](https://flystephen.github.io/DJ-insight/) ([GitHub Repo](https://github.com/FLYSTEPHEN/DJ-insight))
 
 ## References
 - [Online News Association](https://careers.journalists.org/jobs/?keywords=data+OR+journalist&page=1)  
