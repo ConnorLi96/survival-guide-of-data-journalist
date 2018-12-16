@@ -22,12 +22,12 @@ At the same time, we used those data combining with the existing data news educa
 ### Key jupyter notebook files
 1.The [DJ-contribution-tendency-area.ipynb](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/1-DJ-contribution/1-2-tendency-from-2008/DJ-contribution-tendency-area.ipynb) contain the contribution tendency analysis of DJ.
 
-2.The [Analysis-in-US.ipynb](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/3%20DJ%20text%20process/Analysis%20In%20US.ipynb) includes contribution analysis and Twitter & job description text process 
+2.The [Analysis-in-US.ipynb](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/3-DJ-text-process/Analysis-In-US.ipynb) includes contribution analysis and Twitter & job description text process 
 
 3.The [directiory-distribution.ipynb](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/2-DJ-distribution/2-1-directiory-distribution/directiory-distribution.ipynb) includes all maps. ([nbviewer](http://nbviewer.jupyter.org/github/ConnorLi96/survival-guide-of-data-journalist/blob/master/2-DJ-distribution/2-1-directiory-distribution/directiory-distribution.ipynb))
 
 ### Others
-1.Csv: the original [csv](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/4%20DJ%20text%20process/Data_Journalism.csv) includes all DJ information
+1.Csv: the original [csv](https://github.com/ConnorLi96/survival-guide-of-data-journalist/blob/master/3-DJ-text-process/Data_Journalism.csv) includes all DJ information
 
 2.Images: all [visualization](https://github.com/ConnorLi96/survival-guide-of-data-journalist/tree/master/All-images) results of our research
 
