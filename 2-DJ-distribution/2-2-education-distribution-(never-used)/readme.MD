@@ -1,2 +1,1 @@
-# Global-DJ-Education-Map.ipynb
-![](newplot.png)
+Global-DJ-Education-Map
