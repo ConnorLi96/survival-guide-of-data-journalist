@@ -33,7 +33,9 @@ At the same time, we used those data combining with the existing data news educa
 
 3.Prezi: [DJ gogogo](https://prezi.com/view/wUc3wyvCLEMqya7l2rJX/)
 
-4.Bonus:[The Survival Guide Of Data Journalist](https://flystephen.github.io/DJ-insight/) ([GitHub Repo](https://github.com/FLYSTEPHEN/DJ-insight))
+4.Final report: [without code](https://flystephen.github.io/dj-insight-origin/)
+
+5.Bonus:[The Survival Guide Of Data Journalist](https://flystephen.github.io/DJ-insight/) ([GitHub Repo](https://github.com/FLYSTEPHEN/DJ-insight))
 
 ## References
 - [Online News Association](https://careers.journalists.org/jobs/?keywords=data+OR+journalist&page=1)  
